@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ade68aaec9883a6569449232648480d",
+    "revision": "415fd05f7ab84dd975ede182cf8da156",
     "url": "/game-pool-reactapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game-pool-reactapp/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "96a530b04ec32154d4ed",
-    "url": "/game-pool-reactapp/static/css/main.5f9820ed.chunk.css"
+    "revision": "801dd3724bfbf081d2ef",
+    "url": "/game-pool-reactapp/static/css/main.dc64897a.chunk.css"
   },
   {
     "revision": "f92810cd967a42256df6",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game-pool-reactapp/static/js/2.5af2ba9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96a530b04ec32154d4ed",
+    "revision": "801dd3724bfbf081d2ef",
     "url": "/game-pool-reactapp/static/js/main.aae714e3.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/game-pool-reactapp/precache-manifest.a71a10dabadc31688a4142d3bdf9611c.js"
+  "/game-pool-reactapp/precache-manifest.74199ea452dac5c8f72e1214ea944dd7.js"
 );
 
 self.addEventListener('message', (event) => {
